@@ -1,0 +1,15 @@
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\bin\Debug\net6.0\Week2.Con.exe
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\bin\Debug\net6.0\Week2.Con.deps.json
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\bin\Debug\net6.0\Week2.Con.runtimeconfig.json
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\bin\Debug\net6.0\Week2.Con.dll
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\bin\Debug\net6.0\Week2.Con.pdb
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\obj\Debug\net6.0\Week2.Con.csproj.AssemblyReference.cache
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\obj\Debug\net6.0\Week2.Con.GeneratedMSBuildEditorConfig.editorconfig
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\obj\Debug\net6.0\Week2.Con.AssemblyInfoInputs.cache
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\obj\Debug\net6.0\Week2.Con.AssemblyInfo.cs
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\obj\Debug\net6.0\Week2.Con.csproj.CoreCompileInputs.cache
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\obj\Debug\net6.0\Week2.Con.dll
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\obj\Debug\net6.0\refint\Week2.Con.dll
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\obj\Debug\net6.0\Week2.Con.pdb
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\obj\Debug\net6.0\Week2.Con.genruntimeconfig.cache
+D:\week-2-assigment-keremdadak\Week2\Week2.Con\obj\Debug\net6.0\ref\Week2.Con.dll
